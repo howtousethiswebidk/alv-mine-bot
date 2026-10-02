@@ -1,6 +1,6 @@
 {
-  "name": "alv-mine-bot",
-  "version": "1.0.0",
+  "name": "alv-mineplayer-bot",
+  "version": "1.21.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
